@@ -60,6 +60,6 @@ Revolt
 https://app.revolt.chat/invite/caDfD7GZ  
 
 
-### Changelog
+### Changelog  
 2021-09-09  
-- 添加了bootstrap.min.js, header的toggle可以触发了
+- 添加了bootstrap.min.js, header的toggle可以触发了  
