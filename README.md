@@ -28,6 +28,7 @@
 - 做不做小组？还是建Discourse/Discord?
 - Discord怎么用啊?(这个就不用发Issues了，直接在Discord里告诉我吧。)
 - 有哪些参考网站？
+- 配色怎么选?
 - changelog应该怎么写？
 - 怎么改善缺少数据的问题？
 - 怎么做评分系统？
