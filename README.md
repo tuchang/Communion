@@ -58,3 +58,8 @@ Discord
 https://discord.gg/C4Xah9SYmy  
 Revolt  
 https://app.revolt.chat/invite/caDfD7GZ  
+
+
+### Changelog
+2021-09-09  
+- 添加了bootstrap.min.js, header的toggle可以触发了
