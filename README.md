@@ -15,7 +15,7 @@
 - [ ] 书，从没有到非常基本的有
 - [ ] 影，从没有到非常基本的有
 - [ ] 音，从没有到非常基本的有
-- [ ] Demo  
+- [ ] Demo https://my-awesome-project-a8052.web.app/  
 - [ ] 租服务器然后部署。
 - [ ] 基本的网站规则。
 - [x] [Discord](https://discord.gg/C4Xah9SYmy) 
