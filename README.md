@@ -110,3 +110,4 @@ https://app.revolt.chat/invite/caDfD7GZ
 
 2021-09-13
 - 添加了用户页面和设置页面的占位符
+- 修改了AuthService
