@@ -93,9 +93,9 @@ https://app.revolt.chat/invite/caDfD7GZ
 - 添加了bootstrap.min.js, header的toggle可以触发了    
 - 前端添加了git  
 - 设计了一下数据表结构 (version 0.0.1 ?)
--   
+
 2021-09-11
 - 添加了LocalStorage刷新不会自动登出了  
-- 
+
 2021-09-12  
 - 添加了网页Footer  
