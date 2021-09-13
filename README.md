@@ -15,6 +15,7 @@
   - [ ] 添加 OAuth 2  
     - [ ] Google  
     - [ ] GitHub  
+    - [ ] LocalStorage
 - [ ] 数据表结构
   - [ ] 书
 - [ ] 书，从没有页面到非常基本的有
