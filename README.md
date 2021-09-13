@@ -96,4 +96,4 @@ https://app.revolt.chat/invite/caDfD7GZ
 2021-09-11
 - 添加了LocalStorage刷新不会自动登出了
 2021-09-12
-- 添加了 Footer
+- 添加了网页Footer
