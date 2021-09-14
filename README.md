@@ -12,7 +12,7 @@
   - [x] 注册
   - [x] 登录
   - [ ] 帐号信息
-  - [ ] 添加 OAuth 2  
+    - [ ] 添加 OAuth 2  
     - [ ] Google  
     - [ ] GitHub  
     - [x] LocalStorage
