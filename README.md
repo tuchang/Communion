@@ -55,6 +55,7 @@
 - 有哪些参考网站？
 - 配色怎么选? 
   - http://mcg.mbitson.com/
+  - https://material.io/guidelines/style/color.html#color-themes
 - 如何记录
   - changelog应该怎么写？
   - 用Github来记录用户反馈和整理目标方向。
