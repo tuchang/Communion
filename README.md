@@ -109,7 +109,7 @@ Discord
 https://discord.gg/C4Xah9SYmy  
 Revolt  
 https://app.revolt.chat/invite/caDfD7GZ  
-需不需要Slack/飞书/Notion?
+需不需要Slack/飞书/Notion/Matrix?
 
 
 ### Changelog  
